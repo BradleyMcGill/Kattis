@@ -1,0 +1,16 @@
+C:\Users\Bradley\Desktop\Kattis\Trik\bin\Debug\net5.0\Trik.exe
+C:\Users\Bradley\Desktop\Kattis\Trik\bin\Debug\net5.0\Trik.deps.json
+C:\Users\Bradley\Desktop\Kattis\Trik\bin\Debug\net5.0\Trik.runtimeconfig.json
+C:\Users\Bradley\Desktop\Kattis\Trik\bin\Debug\net5.0\Trik.runtimeconfig.dev.json
+C:\Users\Bradley\Desktop\Kattis\Trik\bin\Debug\net5.0\Trik.dll
+C:\Users\Bradley\Desktop\Kattis\Trik\bin\Debug\net5.0\ref\Trik.dll
+C:\Users\Bradley\Desktop\Kattis\Trik\bin\Debug\net5.0\Trik.pdb
+C:\Users\Bradley\Desktop\Kattis\Trik\obj\Debug\net5.0\Trik.csproj.AssemblyReference.cache
+C:\Users\Bradley\Desktop\Kattis\Trik\obj\Debug\net5.0\Trik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bradley\Desktop\Kattis\Trik\obj\Debug\net5.0\Trik.AssemblyInfoInputs.cache
+C:\Users\Bradley\Desktop\Kattis\Trik\obj\Debug\net5.0\Trik.AssemblyInfo.cs
+C:\Users\Bradley\Desktop\Kattis\Trik\obj\Debug\net5.0\Trik.csproj.CoreCompileInputs.cache
+C:\Users\Bradley\Desktop\Kattis\Trik\obj\Debug\net5.0\Trik.dll
+C:\Users\Bradley\Desktop\Kattis\Trik\obj\Debug\net5.0\ref\Trik.dll
+C:\Users\Bradley\Desktop\Kattis\Trik\obj\Debug\net5.0\Trik.pdb
+C:\Users\Bradley\Desktop\Kattis\Trik\obj\Debug\net5.0\Trik.genruntimeconfig.cache
