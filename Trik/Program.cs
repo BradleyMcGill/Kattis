@@ -29,8 +29,17 @@ The ball starts in the leftmost cup (1)");
             string moves = Console.ReadLine();
 
            foreach (char v in moves) {
-                Console.WriteLine(v);
+                if (v == 'A'){
+                    Swapper(1,0);
+                }
+                else if (v == 'B'){
+                    Swapper(2,1);
+                }
+                else if (v == 'C'){
+                    Swapper(0,2);
+                }
             }
+            Console.WriteLine(string.Join(" ", cups));
         }
     }
 }
