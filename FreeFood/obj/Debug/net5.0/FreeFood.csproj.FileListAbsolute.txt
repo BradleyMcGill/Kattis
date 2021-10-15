@@ -1,0 +1,16 @@
+C:\Users\Bradley\Desktop\Kattis\FreeFood\obj\Debug\net5.0\FreeFood.csproj.AssemblyReference.cache
+C:\Users\Bradley\Desktop\Kattis\FreeFood\obj\Debug\net5.0\FreeFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bradley\Desktop\Kattis\FreeFood\obj\Debug\net5.0\FreeFood.AssemblyInfoInputs.cache
+C:\Users\Bradley\Desktop\Kattis\FreeFood\obj\Debug\net5.0\FreeFood.AssemblyInfo.cs
+C:\Users\Bradley\Desktop\Kattis\FreeFood\obj\Debug\net5.0\FreeFood.csproj.CoreCompileInputs.cache
+C:\Users\Bradley\Desktop\Kattis\FreeFood\bin\Debug\net5.0\FreeFood.exe
+C:\Users\Bradley\Desktop\Kattis\FreeFood\bin\Debug\net5.0\FreeFood.deps.json
+C:\Users\Bradley\Desktop\Kattis\FreeFood\bin\Debug\net5.0\FreeFood.runtimeconfig.json
+C:\Users\Bradley\Desktop\Kattis\FreeFood\bin\Debug\net5.0\FreeFood.runtimeconfig.dev.json
+C:\Users\Bradley\Desktop\Kattis\FreeFood\bin\Debug\net5.0\FreeFood.dll
+C:\Users\Bradley\Desktop\Kattis\FreeFood\bin\Debug\net5.0\ref\FreeFood.dll
+C:\Users\Bradley\Desktop\Kattis\FreeFood\bin\Debug\net5.0\FreeFood.pdb
+C:\Users\Bradley\Desktop\Kattis\FreeFood\obj\Debug\net5.0\FreeFood.dll
+C:\Users\Bradley\Desktop\Kattis\FreeFood\obj\Debug\net5.0\ref\FreeFood.dll
+C:\Users\Bradley\Desktop\Kattis\FreeFood\obj\Debug\net5.0\FreeFood.pdb
+C:\Users\Bradley\Desktop\Kattis\FreeFood\obj\Debug\net5.0\FreeFood.genruntimeconfig.cache
