@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+https://open.kattis.com/problems/kornislav
+*/
+
+using System;
 
 namespace Kornislav
 {

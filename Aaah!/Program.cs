@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+https://open.kattis.com/problems/aaah
+*/
+
+using System;
 
 namespace Aaah_
 {

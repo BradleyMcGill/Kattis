@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+https://open.kattis.com/problems/freefood
+*/
+
+using System;
 
 namespace FreeFood
 {

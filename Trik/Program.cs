@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+https://open.kattis.com/problems/trik
+*/
+
+using System;
 
 namespace Trik
 {

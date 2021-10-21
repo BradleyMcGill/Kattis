@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+https://open.kattis.com/problems/echoechoecho
+*/
+
+using System;
 
 namespace Echo_Echo_Echo
 {

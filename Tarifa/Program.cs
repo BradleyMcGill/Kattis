@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+https://open.kattis.com/problems/tarifa
+*/
+
+using System;
 
 namespace Tarifa
 {
